@@ -26,5 +26,5 @@
   { "id": 22, "name": "Basketball", "category": "Activities", "unicode": "🏀", "description": "Nothing but net." },
   { "id": 23, "name": "Tennis", "category": "Activities", "unicode": "🎾", "description": "Game, set, match." },
   { "id": 24, "name": "Guitar", "category": "Activities", "unicode": "🎸", "description": "For rock and rhythm." },
-  { "id": 25, "name": "Laptop", "category": "Objects", "unicode": "	1F4BB", "description": "Get things done." }
+  { "id": 25, "name": "Laptop", "category": "Objects", "unicode": "	💻", "description": "Get things done." }
 ]
