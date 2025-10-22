@@ -1,0 +1,30 @@
+[
+  { "id": 1, "name": "Grinning Face", "category": "Faces", "unicode": "😀", "description": "A classic smile for friendly greetings." },
+  { "id": 2, "name": "Beaming Face", "category": "Faces", "unicode": "😁", "description": "Big smile with eyes; pure excitement." },
+  { "id": 3, "name": "ROFL", "category": "Faces", "unicode": "🤣", "description": "Rolling on the floor laughing." },
+  { "id": 4, "name": "Smiling Eyes", "category": "Faces", "unicode": "😊", "description": "Gentle smile that shows warmth." },
+  { "id": 5, "name": "Wink", "category": "Faces", "unicode": "😉", "description": "Playful wink." },
+  { "id": 6, "name": "Thinking", "category": "Faces", "unicode": "🤔", "description": "When you need a moment to think." },
+  { "id": 7, "name": "Sunglasses", "category": "Faces", "unicode": "😎", "description": "Cool and confident." },
+  { "id": 8, "name": "Crying", "category": "Faces", "unicode": "😢", "description": "Tears for sad moments." },
+  { "id": 9, "name": "Angry", "category": "Faces", "unicode": "😠", "description": "Frustration or anger." },
+  { "id": 10, "name": "Mind Blown", "category": "Faces", "unicode": "🤯", "description": "When something is surprisingly awesome." },
+
+  { "id": 11, "name": "Dog", "category": "Animals", "unicode": "🐶", "description": "Man's best friend." },
+  { "id": 12, "name": "Cat", "category": "Animals", "unicode": "🐱", "description": "Curious and cute." },
+  { "id": 13, "name": "Lion", "category": "Animals", "unicode": "🦁", "description": "King of the jungle." },
+  { "id": 14, "name": "Panda", "category": "Animals", "unicode": "🐼", "description": "Bamboo lover." },
+  { "id": 15, "name": "Monkey", "category": "Animals", "unicode": "🐵", "description": "Playful little primate." },
+
+  { "id": 16, "name": "Pizza", "category": "Food", "unicode": "🍕", "description": "Cheesy slice of joy." },
+  { "id": 17, "name": "Burger", "category": "Food", "unicode": "🍔", "description": "Stacked and tasty." },
+  { "id": 18, "name": "Taco", "category": "Food", "unicode": "🌮", "description": "A small handheld feast." },
+  { "id": 19, "name": "Sushi", "category": "Food", "unicode": "🍣", "description": "Fresh and delicate bites." },
+  { "id": 20, "name": "Ice Cream", "category": "Food", "unicode": "🍨", "description": "Sweet, cold dessert." },
+
+  { "id": 21, "name": "Soccer Ball", "category": "Activities", "unicode": "⚽", "description": "For the beautiful game." },
+  { "id": 22, "name": "Basketball", "category": "Activities", "unicode": "🏀", "description": "Nothing but net." },
+  { "id": 23, "name": "Tennis", "category": "Activities", "unicode": "🎾", "description": "Game, set, match." },
+  { "id": 24, "name": "Guitar", "category": "Activities", "unicode": "🎸", "description": "For rock and rhythm." },
+  { "id": 25, "name": "Laptop", "category": "Objects", "unicode": "💻", "description": "Get things done." }
+]
