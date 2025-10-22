@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "name": "Grinning Face",
+    "category": "Faces",
+    "imageURL": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@16.0.0/color/png/72x72/1F600.png",
+    "description": "A classic smile for friendly greetings."
+  },
+  {
+    "id": 2,
+    "name": "Beaming Face With Smiling Eyes",
+    "category": "Faces",
+    "imageURL": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@16.0.0/color/png/72x72/1F601.png",
+    "description": "Big smile, very happy."
+  },
+  {
+    "id": 3,
+    "name": "Face With Tears of Joy",
+    "category": "Faces",
+    "imageURL": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@16.0.0/color/png/72x72/1F602.png",
+    "description": "Laughing so much there are tears."
+  },
+  {
+    "id": 4,
+    "name": "Smiling Face With Heart-Eyes",
+    "category": "Faces",
+    "imageURL": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@16.0.0/color/png/72x72/1F60D.png",
+    "description": "Love and adoration — eyes are hearts."
+  },
+  {
+    "id": 5,
+    "name": "Winking Face",
+    "category": "Faces",
+    "imageURL": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@16.0.0/color/png/72x72/1F609.png",
+    "description": "Playful wink."
+  },
+  {
+    "id": 6,
+    "name": "Thinking Face",
+    "category": "Faces",
+    "imageURL": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@16.0.0/color/png/72x72/1F914.png",
+    "description": "When you are thinking about something."
+  },
+  {
+    "id": 7,
+    "name": "Face With Sunglasses",
+    "category": "Faces",
+    "imageURL": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@16.0.0/color/png/72x72/1F60E.png",
+    "description": "Cool and confident."
+  },
+  {
+    "id": 8,
+    "name": "Crying Face",
+    "category": "Faces",
+    "imageURL": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@16.0.0/color/png/72x72/1F622.png",
+    "description": "Sad or in tears."
+  },
+  {
+    "id": 9,
+    "name": "Angry Face",
+    "category": "Faces",
+    "imageURL": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@16.0.0/color/png/72x72/1F620.png",
+    "description": "Frustration or anger."
+  },
+  {
+    "id": 10,
+    "name": "Mind Blown",
+    "category": "Faces",
+    "imageURL": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@16.0.0/color/png/72x72/1F92F.png",
+    "description": "When something is surprisingly awesome."
+  },
+  {
+    "id": 11,
+    "name": "Dog Face",
+    "category": "Animals",
+    "imageURL": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@16.0.0/color/png/72x72/1F436.png",
+    "description": "Man’s best friend."
+  },
+  {
+    "id": 12,
+    "name": "Cat Face",
+    "category": "Animals",
+    "imageURL": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@16.0.0/color/png/72x72/1F431.png",
+    "description": "Curious and cute."
+  },
+  {
+    "id": 13,
+    "name": "Lion Face",
+    "category": "Animals",
+    "imageURL": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@16.0.0/color/png/72x72/1F981.png",
+    "description": "King of the jungle."
+  },
+  {
+    "id": 14,
+    "name": "Panda Face",
+    "category": "Animals",
+    "imageURL": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@16.0.0/color/png/72x72/1F43C.png",
+    "description": "Bamboo eater."
+  },
+  {
+    "id": 15,
+    "name": "Monkey Face",
+    "category": "Animals",
+    "imageURL": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@16.0.0/color/png/72x72/1F435.png",
+    "description": "Playful little primate."
+  },
+  {
+    "id": 16,
+    "name": "Pizza",
+    "category": "Food",
+    "imageURL": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@16.0.0/color/png/72x72/1F355.png",
+    "description": "Cheesy slice of joy."
+  },
+  {
+    "id": 17,
+    "name": "Burger",
+    "category": "Food",
+    "imageURL": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@16.0.0/color/png/72x72/1F354.png",
+    "description": "Stacked and tasty."
+  },
+  {
+    "id": 18,
+    "name": "Taco",
+    "category": "Food",
+    "imageURL": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@16.0.0/color/png/72x72/1F32E.png",
+    "description": "A small handheld feast."
+  },
+  {
+    "id": 19,
+    "name": "Sushi",
+    "category": "Food",
+    "imageURL": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@16.0.0/color/png/72x72/1F363.png",
+    "description": "Fresh and delicate bites."
+  },
+  {
+    "id": 20,
+    "name": "Ice Cream",
+    "category": "Food",
+    "imageURL": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@16.0.0/color/png/72x72/1F366.png",
+    "description": "Sweet, cold dessert."
+  },
+  {
+    "id": 21,
+    "name": "Soccer Ball",
+    "category": "Activities",
+    "imageURL": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@16.0.0/color/png/72x72/26BD.png",
+    "description": "For the beautiful game."
+  },
+  {
+    "id": 22,
+    "name": "Basketball",
+    "category": "Activities",
+    "imageURL": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@16.0.0/color/png/72x72/1F3C0.png",
+    "description": "Nothing but net."
+  },
+  {
+    "id": 23,
+    "name": "Tennis",
+    "category": "Activities",
+    "imageURL": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@16.0.0/color/png/72x72/1F3BE.png",
+    "description": "Game, set, match."
+  },
+  {
+    "id": 24,
+    "name": "Guitar",
+    "category": "Activities",
+    "imageURL": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@16.0.0/color/png/72x72/1F3B8.png",
+    "description": "For rock and rhythm."
+  },
+  {
+    "id": 25,
+    "name": "Laptop",
+    "category": "Objects",
+    "imageURL": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@16.0.0/color/png/72x72/1F4BB.png",
+    "description": "Get things done."
+  }
+]
