@@ -6,7 +6,7 @@
       "type": "exterior",
       "price": 75,
       "description": "Exterior wash, decon soap, wheels/tires, paint sealant, glass cleaned.",
-      "image": "https://images.unsplash.com/photo-1521334726092-b509a19597d1",
+      "image": "./images/gallery/jeepren_exterior_after.jpg",
       "attributes": {
         "protection": "Spray sealant",
         "duration_weeks": 3,
@@ -19,7 +19,7 @@
       "type": "interior",
       "price": 125,
       "description": "Interior deep clean with stain treatment, steam, vacuum, plastics protectant.",
-      "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023",
+      "image": "./images/gallery/van_rear_interior.jpg",
       "attributes": {
         "protection": "UV interior dressing",
         "duration_weeks": 6,
@@ -32,7 +32,7 @@
       "type": "full",
       "price": 175,
       "description": "Full interior + exterior service combining Silver and Bronze.",
-      "image": "https://images.unsplash.com/photo-1542362567-b07e54358753",
+      "image": "./images/gallery/van_front_exterior.jpg",
       "attributes": {
         "protection": "Sealant + interior dressing",
         "duration_weeks": 6,
@@ -45,9 +45,9 @@
       "type": "full",
       "price": 200,
       "description": "Gold package plus spray wax finish and glass paste wax.",
-      "image": "https://images.unsplash.com/photo-1510635665-1c8e3d3d76d8",
+      "image": "./images/gallery/optima_sunset.jpg",
       "attributes": {
-        "protection": "Spray wax + glass paste",
+        "protection": "Spray wax + glass paste wax",
         "duration_weeks": 8,
         "alt": "Microfiber buffing a glossy fender"
       }
@@ -61,64 +61,177 @@
   ],
   "gallery": [
   {
-    "title": "Ford Transit Connect - Interior After",
-    "image": "./images/gallery/van_backseat_interior.jpg",
-    "alt": "Detailed Ford Transit Connect interior",
-    "city": "Dixon",
-    "state": "IL",
-    "year": 2025,
-    "category": "Interior",
-    "blurb": "Deep interior cleaning and conditioning on a Transit Connect."
-  },
-  {
-    "title": "Ford Transit Connect - Exterior After",
-    "image": "./images/gallery/van_front_exterior.jpg",
-    "alt": "Clean black Ford Transit Connect exterior",
-    "city": "Dixon",
-    "state": "IL",
-    "year": 2025,
-    "category": "Exterior",
-    "blurb": "Full wash and wax with polished wheels for a deep black shine."
-  },
-  {
-    "title": "Jeep Renegade - Interior Before",
-    "image": "./images/gallery/jeepren_backseat_interior_before.jpg",
-    "alt": "Dirty Jeep Renegade backseat before detailing",
-    "city": "Sterling",
-    "state": "IL",
-    "year": 2025,
-    "category": "Before",
-    "blurb": "Initial condition before interior detail."
-  },
-  {
-    "title": "Jeep Renegade - Interior After",
-    "video": "./images/gallery/jeep_interior_clean.mp4",
-    "alt": "Jeep Renegade interior after detail",
-    "city": "Sterling",
-    "state": "IL",
-    "year": 2025,
-    "category": "After",
-    "blurb": "Complete interior restoration and protection treatment."
-  },
-  {
-    "title": "Jeep Renegade - Exterior After",
-    "image": "./images/gallery/jeepren_exterior_after.jpg",
-    "alt": "Clean Jeep Renegade exterior after detailing",
-    "city": "Sterling",
-    "state": "IL",
-    "year": 2025,
-    "category": "Exterior",
-    "blurb": "Polished exterior with durable ceramic protection."
-  },
-  {
-    "title": "Kia Optima - Sunset Wash",
-    "image": "./images/gallery/optima_sunset.jpg",
-    "alt": "White Kia Optima wash at sunset",
+    "title": "Ford Transit Connect - Driver Side Exterior",
+    "image": "./images/gallery/van_dside_exterior.jpg",
+    "alt": "Driver side of Ford Transit Connect after detail",
     "city": "Rock Falls",
     "state": "IL",
     "year": 2025,
     "category": "Exterior",
-    "blurb": "Evening foam bath with glossy finish and tire dressing."
+    "blurb": "Driver side cleaned, polished, and sealed for lasting shine."
+  },
+  {
+    "title": "Ford Transit Connect - Rear Driver Exterior",
+    "image": "./images/gallery/van_dside_rear_exterior.jpg",
+    "alt": "Rear driver side of Ford Transit Connect after detail",
+    "city": "Rock Falls",
+    "state": "IL",
+    "year": 2025,
+    "category": "Exterior",
+    "blurb": "Rear panels and taillights restored to a glossy finish."
+  },
+  {
+    "title": "Ford Transit Connect - Front Exterior",
+    "image": "./images/gallery/van_front_exterior.jpg",
+    "alt": "Front of Ford Transit Connect after detail",
+    "city": "Rock Falls",
+    "state": "IL",
+    "year": 2025,
+    "category": "Exterior",
+    "blurb": "Front grill and hood cleaned, waxed, and sealed."
+  },
+  {
+    "title": "Ford Transit Connect - Front Seats",
+    "image": "./images/gallery/van_frontseat_interior.jpg",
+    "alt": "Front seats of Ford Transit Connect after interior detail",
+    "city": "Rock Falls",
+    "state": "IL",
+    "year": 2025,
+    "category": "Interior",
+    "blurb": "Driver and passenger seats deep-cleaned and conditioned."
+  },
+  {
+    "title": "Ford Transit Connect - Rear Interior",
+    "image": "./images/gallery/van_rear_interior.jpg",
+    "alt": "Rear interior of Ford Transit Connect after detail",
+    "city": "Rock Falls",
+    "state": "IL",
+    "year": 2025,
+    "category": "Interior",
+    "blurb": "Rear area fully vacuumed and plastics restored."
+  },
+  {
+    "title": "Ford Transit Connect - Backseat Interior",
+    "image": "./images/gallery/van_backseat_interior.jpg",
+    "alt": "Backseat of Ford Transit Connect after detailing",
+    "city": "Rock Falls",
+    "state": "IL",
+    "year": 2025,
+    "category": "Interior",
+    "blurb": "Backseat area spotless after steam and upholstery treatment."
+  },
+
+  {
+    "title": "Jeep Renegade - Driver Interior Before",
+    "image": "./images/gallery/jeep_driver_interior_before.jpg",
+    "alt": "Jeep Renegade driver seat area before detail",
+    "city": "Rock Falls",
+    "state": "IL",
+    "year": 2025,
+    "category": "Before",
+    "blurb": "Driver side before cleaning — dust and debris buildup visible."
+  },
+  {
+    "title": "Jeep Renegade - Passenger Interior Before",
+    "image": "./images/gallery/jeepren_pass-seat_interior_before.jpg",
+    "alt": "Passenger seat before cleaning in Jeep Renegade",
+    "city": "Rock Falls",
+    "state": "IL",
+    "year": 2025,
+    "category": "Before",
+    "blurb": "Passenger seat with heavy staining before deep shampoo."
+  },
+  {
+    "title": "Jeep Renegade - Backseat Interior Before",
+    "image": "./images/gallery/jeepren_backseat_interior_before.jpg",
+    "alt": "Backseat of Jeep Renegade before interior detailing",
+    "city": "Rock Falls",
+    "state": "IL",
+    "year": 2025,
+    "category": "Before",
+    "blurb": "Rear seat area before cleaning, showing embedded dirt."
+  },
+  {
+    "title": "Jeep Renegade - Console & Shifter Before",
+    "image": "./images/gallery/jeepren_console-shifter_interior_before.jpg",
+    "alt": "Jeep Renegade console before detail",
+    "city": "Rock Falls",
+    "state": "IL",
+    "year": 2025,
+    "category": "Before",
+    "blurb": "Console and shifter area prior to steam cleaning and wipe-down."
+  },
+  {
+    "title": "Jeep Renegade - Trunk Interior Before",
+    "image": "./images/gallery/jeepren_trunk_interior_before.jpg",
+    "alt": "Jeep Renegade trunk before detail",
+    "city": "Rock Falls",
+    "state": "IL",
+    "year": 2025,
+    "category": "Before",
+    "blurb": "Cargo area before vacuuming and plastic restoration."
+  },
+  {
+    "title": "Jeep Renegade - Under Driver Seat Before",
+    "image": "./images/gallery/jeepren_underdriverseat_interior_before.jpg",
+    "alt": "Under driver seat before cleaning in Jeep Renegade",
+    "city": "Rock Falls",
+    "state": "IL",
+    "year": 2025,
+    "category": "Before",
+    "blurb": "Under-seat area before full steam clean and extraction."
+  },
+  {
+    "title": "Jeep Renegade - Under Passenger Seat Before",
+    "image": "./images/gallery/jeepren_underpass-seat_interior_before.jpg",
+    "alt": "Under passenger seat before cleaning in Jeep Renegade",
+    "city": "Rock Falls",
+    "state": "IL",
+    "year": 2025,
+    "category": "Before",
+    "blurb": "Under passenger seat prior to cleaning and deodorizing."
+  },
+  {
+    "title": "Jeep Renegade - Rear Passenger Stain Before",
+    "image": "./images/gallery/stain_rearpass_interior_before.jpg",
+    "alt": "Stain on rear passenger seat before cleaning",
+    "city": "Rock Falls",
+    "state": "IL",
+    "year": 2025,
+    "category": "Before",
+    "blurb": "Visible fabric stain before deep extraction and spot treatment."
+  },
+  {
+    "title": "Jeep Renegade - Interior After",
+    "video": "./images/gallery/jeep_interior_clean.mp4",
+    "alt": "Clean Jeep Renegade interior after full detail",
+    "city": "Rock Falls",
+    "state": "IL",
+    "year": 2025,
+    "category": "After",
+    "blurb": "Interior restored with professional steaming, extraction, and protectant."
+  },
+  {
+    "title": "Jeep Renegade - Exterior After",
+    "image": "./images/gallery/jeepren_exterior_after.jpg",
+    "alt": "Clean Jeep Renegade exterior after detail",
+    "city": "Rock Falls",
+    "state": "IL",
+    "year": 2025,
+    "category": "Exterior",
+    "blurb": "Jeep exterior washed, polished, and ceramic sealed for lasting gloss."
+  },
+
+  {
+    "title": "Kia Optima - Sunset Wash",
+    "image": "./images/gallery/optima_sunset.jpg",
+    "alt": "White Kia Optima after wash at sunset",
+    "city": "Rock Falls",
+    "state": "IL",
+    "year": 2025,
+    "category": "Exterior",
+    "blurb": "Evening wash and shine capturing the perfect golden reflection."
   }
 ]
+
 }
