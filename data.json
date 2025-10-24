@@ -60,60 +60,65 @@
     { "name": "Plastic Restoration", "price": 25, "description": "Revives faded exterior trim." }
   ],
   "gallery": [
-    {
-      "id": "g1",
-      "title": "Engine Bay Refresh",
-      "category": "engine",
-      "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf",
-      "alt": "Clean engine bay",
-      "city": "Platteville",
-      "state": "WI",
-      "year": 2025,
-      "blurb": "Degreased and dressed for a clean, OEM-like finish."
-    },
-    {
-      "id": "g2",
-      "title": "Interior Revive",
-      "category": "interior",
-      "image": "https://images.unsplash.com/photo-1520899983315-44e9f2dcc08e",
-      "alt": "Vacuumed carpet and cleaned seats",
-      "city": "Dubuque",
-      "state": "IA",
-      "year": 2025,
-      "blurb": "Steam, stain treatment, and fabric protection."
-    },
-    {
-      "id": "g3",
-      "title": "Gloss Enhancement",
-      "category": "exterior",
-      "image": "https://images.unsplash.com/photo-1542281286-9e0a16bb7366",
-      "alt": "Shiny red paint after sealant",
-      "city": "Madison",
-      "state": "WI",
-      "year": 2025,
-      "blurb": "Decon wash and sealant for a deep, reflective shine."
-    },
-    {
-      "id": "g4",
-      "title": "Crystal Clear Glass",
-      "category": "exterior",
-      "image": "https://images.unsplash.com/photo-1493238792000-8113da705763",
-      "alt": "Cleaned windshield",
-      "city": "Platteville",
-      "state": "WI",
-      "year": 2025,
-      "blurb": "Paste wax on glass improves clarity and bead."
-    },
-    {
-      "id": "g5",
-      "title": "Pet Hair Challenge",
-      "category": "interior",
-      "image": "https://images.unsplash.com/photo-1519751138087-5a52c02c72e7",
-      "alt": "Lint-rolled fabric seats",
-      "city": "Galena",
-      "state": "IL",
-      "year": 2025,
-      "blurb": "Special tools and techniques to remove embedded hair."
-    }
-  ]
+  {
+    "title": "Ford Transit Connect - Interior After",
+    "image": "./images/gallery/van_backseat_interior.jpg",
+    "alt": "Detailed Ford Transit Connect interior",
+    "city": "Dixon",
+    "state": "IL",
+    "year": 2025,
+    "category": "Interior",
+    "blurb": "Deep interior cleaning and conditioning on a Transit Connect."
+  },
+  {
+    "title": "Ford Transit Connect - Exterior After",
+    "image": "./images/gallery/van_front_exterior.jpg",
+    "alt": "Clean black Ford Transit Connect exterior",
+    "city": "Dixon",
+    "state": "IL",
+    "year": 2025,
+    "category": "Exterior",
+    "blurb": "Full wash and wax with polished wheels for a deep black shine."
+  },
+  {
+    "title": "Jeep Renegade - Interior Before",
+    "image": "./images/gallery/jeepren_backseat_interior_before.jpg",
+    "alt": "Dirty Jeep Renegade backseat before detailing",
+    "city": "Sterling",
+    "state": "IL",
+    "year": 2025,
+    "category": "Before",
+    "blurb": "Initial condition before interior detail."
+  },
+  {
+    "title": "Jeep Renegade - Interior After",
+    "video": "./images/gallery/jeep_interior_clean.mp4",
+    "alt": "Jeep Renegade interior after detail",
+    "city": "Sterling",
+    "state": "IL",
+    "year": 2025,
+    "category": "After",
+    "blurb": "Complete interior restoration and protection treatment."
+  },
+  {
+    "title": "Jeep Renegade - Exterior After",
+    "image": "./images/gallery/jeepren_exterior_after.jpg",
+    "alt": "Clean Jeep Renegade exterior after detailing",
+    "city": "Sterling",
+    "state": "IL",
+    "year": 2025,
+    "category": "Exterior",
+    "blurb": "Polished exterior with durable ceramic protection."
+  },
+  {
+    "title": "Kia Optima - Sunset Wash",
+    "image": "./images/gallery/optima_sunset.jpg",
+    "alt": "White Kia Optima wash at sunset",
+    "city": "Rock Falls",
+    "state": "IL",
+    "year": 2025,
+    "category": "Exterior",
+    "blurb": "Evening foam bath with glossy finish and tire dressing."
+  }
+]
 }
